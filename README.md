@@ -8,3 +8,5 @@
 
 The goal of *cursoDashboards* contains the examples of the Shiny
 Dashboard’s course.
+
+Script will be written in portuguese.
