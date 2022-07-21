@@ -19,7 +19,20 @@ h2 {
   color: #99e6ff;
 }
 
+h3 {
+  font-family: 'Yusei Magic', sans-serif;
+  color: #99e6ff;
+}
+
+p {
+  font-family: 'Yusei Magic', sans-serif;
+  color: #ffffff;
+}
 /* Make text visible on inputs */
 .shiny-input-container {
-  color: #474747;
+  color: #ff0066;/* Purple */
+}
+
+.small-box {
+  background-color: purple;
 }
